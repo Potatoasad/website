@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Asad Hussain"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/bio-photo-1.jpg"
   bio              : "Studying how black holes ring and what that can tell us about theories beyond General Relativity."
   location         : "Austin, TX."
   email            : "asadh@utexas.edu"
